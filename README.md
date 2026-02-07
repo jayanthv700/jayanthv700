@@ -1,83 +1,84 @@
-<h1 align="center">Hi 👋, I'm Jayanth V</h1>
-<h3 align="center">Java Backend Developer | Problem Solver | Continuous Learner</h3>
+<h1 align="center">
+  Hi 👋, I'm Jayanth V
+</h1>
+
+<h3 align="center">
+  🚀 Java Backend Developer | API Builder | Problem Solver
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%7C+Hibernate+%7C+MySQL;Building+Scalable+APIs;Always+Learning+%F0%9F%9A%80" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQ1cWc2d2k0NjF1Mmxhb3F4cG14bWhkb3M5Z2FhYzR3cXRrYTB5diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔹 Backend Java Developer with strong fundamentals
-- 🔹 Passionate about **clean code**, **scalable APIs**, and **problem-solving**
-- 🔹 Experience with **Spring MVC, Hibernate, REST APIs**
-- 🔹 Actively preparing for backend & system design interviews
-- 🔹 Always curious to learn and improve
+- 🔹 Java Backend Developer with strong fundamentals  
+- 🔹 Skilled in **Spring Boot, REST APIs, Hibernate, MySQL**  
+- 🔹 Focused on **clean architecture & performance**  
+- 🔹 Preparing seriously for **backend interviews**  
+- 🔹 Believe in *learning by building*
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🔹 Languages
-- Java  
-- SQL  
-
-### 🔹 Backend Frameworks
-- Spring MVC  
-- Spring Boot  
-- Hibernate / JPA  
-
-### 🔹 Databases
-- MySQL  
-
-### 🔹 Tools & Platforms
-- Maven  
-- Git & GitHub  
-- Eclipse / IntelliJ  
-- Postman  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,git,maven,postman" />
+</p>
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 User Management System
-- RESTful APIs using Spring Boot
-- CRUD operations with MySQL
-- Layered architecture (Controller, Service, Repository)
+### 🔹 Backend CRUD Application
+- REST APIs using Spring Boot
+- MySQL integration
+- Proper layering (Controller / Service / Repository)
 
-### 🔹 Order & Inventory Backend
+### 🔹 Order Management System
 - Java + Hibernate
-- Transaction management
-- Real-world backend design practices
-
-> 📌 *More projects coming soon — continuously improving this space.*
+- Transaction handling
+- Real-world backend flow
 
 ---
 
-## 📈 What I Focus On
+## 📊 GitHub Stats
 
-- Writing **maintainable and readable code**
-- Understanding **why** behind concepts, not just syntax
-- Performance optimization & best practices
-- Backend interview readiness
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+- Advanced Spring Boot
+- System Design basics
+- Performance optimization
 
 ---
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: *Add your LinkedIn URL here*
-- 📧 Email: *your.email@example.com*
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  🚀 Learning | Building | Improving
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=120&section=footer"/>
 </p>
