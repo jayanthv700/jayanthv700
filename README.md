@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="https://www.google.com/imgres?q=github%20readme%20cool%20portrait%20animation%20gif%20for%20backend%20developer&imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F74038190%2F235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif&imgrefurl=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&docid=hqmA8T4OFW0sOM&tbnid=bflr3-Ax98oQ3M&vet=12ahUKEwiMir_x0caSAxViTmwGHbGbLT0QnPAOegQIHBAB..i&w=426&h=426&hcb=2&ved=2ahUKEwiMir_x0caSAxViTmwGHbGbLT0QnPAOegQIHBAB.gif" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQ1cWc2d2k0NjF1Mmxhb3F4cG14bWhkb3M5Z2FhYzR3cXRrYTB5diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
 </p>
 
 ---
