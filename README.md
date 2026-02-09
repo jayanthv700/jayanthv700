@@ -31,7 +31,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,git,maven,postman,linux,redis" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,git,maven,postman,linux,redis,c++,maven,tomcat" />
 </p>
 
 ---
