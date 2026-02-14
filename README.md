@@ -64,30 +64,8 @@
 - System Design basics
 - Performance optimization
 
-- <!DOCTYPE html>
-<html>
-<head>
-  <title>Click Speed Game</title>
-  <style>
-    body { text-align: center; font-family: Arial; background: #111; color: white; }
-    button { padding: 20px; font-size: 20px; }
-  </style>
-</head>
-<body>
-  <h1>Click Challenge 🔥</h1>
-  <p>Clicks: <span id="count">0</span></p>
-  <button onclick="clickMe()">Click Me!</button>
-
-  <script>
-    let count = 0;
-    function clickMe() {
-      count++;
-      document.getElementById("count").innerText = count;
-    }
-  </script>
-</body>
-</html>
-
+## 🎮 Play My Mini Game
+👉 [Click here to play](https://github.com/jayanthv700/mini-game.git)
 
 ---
 
