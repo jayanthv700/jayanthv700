@@ -80,7 +80,7 @@
 ## 🐉 Dragon Core Breach Protocol
 
 <p align="center">
-  <img src="dragon.svg" />
+  <img src="https://raw.githubusercontent.com/jayanthv700/mini-game/refs/heads/main/dragon.svg" />
 </p>
 
 
