@@ -80,49 +80,7 @@
 ## 🐉 Dragon Core Breach Protocol
 
 <p align="center">
-<svg width="800" height="300" xmlns="http://www.w3.org/2000/svg">
-
-  <!-- Background -->
-  <rect width="100%" height="100%" fill="black"/>
-
-  <!-- Matrix-like text -->
-  <text x="50%" y="40" fill="#00ff99" font-size="22" text-anchor="middle">
-    Initializing Dragon Core...
-  </text>
-
-  <!-- Dragon -->
-  <text x="50%" y="90" font-size="60" text-anchor="middle">🐲</text>
-
-  <!-- Dragon HP Label -->
-  <text x="50%" y="130" fill="red" font-size="18" text-anchor="middle">
-    Dragon HP
-  </text>
-
-  <!-- HP Bar Background -->
-  <rect x="200" y="150" width="400" height="25" fill="#222"/>
-
-  <!-- Animated HP Bar -->
-  <rect x="200" y="150" width="400" height="25" fill="red">
-    <animate attributeName="width"
-             values="400;50;400"
-             dur="5s"
-             repeatCount="indefinite"/>
-  </rect>
-
-  <!-- Developer -->
-  <text x="50%" y="210" fill="#00ff99" font-size="18" text-anchor="middle">
-    ⚔ Java Developer launching attack();
-  </text>
-
-  <!-- Glitch Effect -->
-  <text x="50%" y="250" fill="#00ff99" font-size="16" text-anchor="middle">
-    > Breaching firewall...
-    <animate attributeName="opacity"
-             values="1;0;1"
-             dur="1s"
-             repeatCount="indefinite"/>
-  </text>
-
-</svg>
+  <img src="dragon.svg" />
 </p>
+
 
