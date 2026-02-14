@@ -65,7 +65,7 @@
 - Performance optimization
 
 ## 🎮 Play My Mini Game
-👉 [Click here to play](https://github.com/jayanthv700/mini-game.git)
+👉 [Click here to play](https://jayanthv700.github.io/mini-game/)
 
 ---
 
