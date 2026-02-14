@@ -1,6 +1,10 @@
-<h1 align="center">
+<!-- <h1 align="center">
   Hi 👋, I'm Jayanth V
-</h1>
+</h1> -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jayanthv700/mini-game/refs/heads/main/Hi!%20I'm%20Jayanth%20V.png" alt="Jayanth V Banner" />
+</p>
+
 
 <h3 align="center">
   🚀 Java Backend Developer | API Builder | Problem Solver
