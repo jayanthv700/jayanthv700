@@ -22,13 +22,29 @@
 
 ---
 
-## 👨‍💻 About Me
+<table>
+<tr>
+<td width="60%">
 
-- 🔹 Java Backend Developer with strong fundamentals  
-- 🔹 Skilled in **Spring Boot, REST APIs, Hibernate, MySQL**  
-- 🔹 Focused on **clean architecture & performance**  
-- 🔹 Preparing seriously for **backend interviews**  
-- 🔹 Believe in *learning by building*
+## 👨‍💻 About Me ⚡
+
+🟡 **Super Saiyan Java Backend Developer**
+
+- Strong in **Spring Boot, REST APIs**
+- Skilled in **Hibernate & MySQL**
+- Focused on scalable architecture
+- Always leveling up 🚀
+
+</td>
+
+<td width="40%">
+
+<img src="file:///C:/Users/jayan/Documents/Downloads/DBZ-Goku2.gif" width="350"/>
+
+</td>
+</tr>
+</table>
+
 
 ---
 
