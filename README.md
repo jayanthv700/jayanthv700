@@ -28,21 +28,10 @@
   <img src="https://raw.githubusercontent.com/Edgar-Mendonca/Edgar-Mendonca/main/images/DBZ-Goku2.gif" width="350"/>
 </p>
 
-<div align="left">
+<p align="center">
+  <img src="super-saiyan.svg" />
+</p>
 
-### 🟡 Powered by Super Saiyan Mode
-
-<span style="color:#FFD700; font-weight:bold;">
-
-- 🔹 Java Backend Developer with strong fundamentals  
-- 🔹 Skilled in **Spring Boot, REST APIs, Hibernate, MySQL**  
-- 🔹 Focused on **clean architecture & performance**  
-- 🔹 Preparing seriously for **backend interviews**  
-- 🔹 Believe in learning by building ⚡  
-
-</span>
-
-</div>
 
 
 ---
