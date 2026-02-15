@@ -24,18 +24,25 @@
 
 ## 👨‍💻 About Me ⚡
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Edgar-Mendonca/Edgar-Mendonca/main/images/DBZ-Goku2.gif" width="320" align="right"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Edgar-Mendonca/Edgar-Mendonca/main/images/DBZ-Goku2.gif" width="350"/>
 </p>
 
-### 🟡 Super Saiyan Mode Activated
+<div align="left">
 
-🟡 **Java Backend Developer with strong fundamentals**  
-🟡 Skilled in **Spring Boot, REST APIs, Hibernate, MySQL**  
-🟡 Focused on clean architecture & performance  
-🟡 Preparing seriously for backend interviews  
-🟡 Believe in learning by building ⚡  
+### 🟡 Powered by Super Saiyan Mode
 
+<span style="color:#FFD700; font-weight:bold;">
+
+- 🔹 Java Backend Developer with strong fundamentals  
+- 🔹 Skilled in **Spring Boot, REST APIs, Hibernate, MySQL**  
+- 🔹 Focused on **clean architecture & performance**  
+- 🔹 Preparing seriously for **backend interviews**  
+- 🔹 Believe in learning by building ⚡  
+
+</span>
+
+</div>
 
 
 ---
