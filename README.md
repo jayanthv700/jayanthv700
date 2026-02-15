@@ -39,7 +39,7 @@
 
 <td width="40%">
 
-<img src="file:///C:/Users/jayan/Documents/Downloads/DBZ-Goku2.gif" width="350"/>
+<img src="https://raw.githubusercontent.com/Edgar-Mendonca/Edgar-Mendonca/main/images/DBZ-Goku2.gif" width="350"/>
 
 </td>
 </tr>
