@@ -22,17 +22,12 @@
 
 ---
 
-## 👨‍💻 About Me ⚡
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Edgar-Mendonca/Edgar-Mendonca/main/images/DBZ-Goku2.gif" width="350"/>
-</p>
-
-<p align="center">
-  <img src="super-saiyan.svg" />
-</p>
-
-
+## 👨‍💻 About Me 
+- 🔹 Java Backend Developer with strong fundamentals 
+- 🔹 Skilled in **Spring Boot, REST APIs, Hibernate, MySQL** 
+- 🔹 Focused on **clean architecture & performance** 
+- 🔹 Preparing seriously for **backend interviews** 
+- 🔹 Believe in *learning by building*
 
 ---
 
