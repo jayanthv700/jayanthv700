@@ -58,9 +58,6 @@
 - System Design basics
 - Performance optimization
 
-## 🎮 Play My Mini Game
-👉 [Click here to play](https://jayanthv700.github.io/mini-game/)
-
 ---
 
 ## 🤝 Connect With Me
@@ -80,10 +77,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=120&section=footer"/>
 </p>
 
-## 🐉 Dragon Core Breach Protocol
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jayanthv700/mini-game/refs/heads/main/dragon.svg" />
-</p>
 
 
